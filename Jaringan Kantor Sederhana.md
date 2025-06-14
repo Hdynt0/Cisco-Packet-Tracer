@@ -1,6 +1,14 @@
-# 📚 Dokumentasi Jaringan Kantor
-
 **Topik:** Perancangan Jaringan kantor Sederhana dengan Subnetting di Cisco Packet Tracer
+
+---
+
+## 🖼️ Topologi Jaringan
+
+<center>
+  <img src="https://drive.google.com/uc?export=view&id=1HMBLpl-EWzWwQfcv7XOfS8L8bZoLnbcW" width="700">
+</center>
+
+- 💾 [Simulasi Cisco Packet Tracer (.pkt)](https://drive.google.com/file/d/1WV0sGJKyIqPx9NO0UXbtD1rEf0JtLMJX/view?usp=drive_link)
 
 ---
 
@@ -65,3 +73,16 @@ no shutdown
 exit
 copy running-config startup-config
 ```
+### 5. Konfigurasi PC/Printer
+Untuk setiap perangkat:
+
+IP Address: salah satu dari rentang host
+Subnet Mask: 255.255.255.128
+Default Gateway:
+Akun: 192.168.40.1
+Pengiriman: 192.168.40.129
+
+### 6. Uji Konektivitas
+Dari PC Akun: ping 192.168.40.130
+Jika sukses: Reply from...
+Alternatif: Gunakan fitur Simple PDU di Cisco Packet Trace
