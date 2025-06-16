@@ -8,7 +8,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1HMBLpl-EWzWwQfcv7XOfS8L8bZoLnbcW" width="700">
 </center>
 
-- 💾 [Simulasi Cisco Packet Tracer (.pkt)](https://drive.google.com/file/d/1WV0sGJKyIqPx9NO0UXbtD1rEf0JtLMJX/view?usp=drive_link)
+- 💾 [File Cisco Packet Tracer (.pkt)](https://drive.google.com/file/d/1WV0sGJKyIqPx9NO0UXbtD1rEf0JtLMJX/view?usp=drive_link)
 
 ---
 
@@ -46,7 +46,7 @@ Hari ini saya mempelajari cara membangun jaringan kantor sederhana yang mencakup
 | Pengiriman | 192.168.40.128 | 192.168.40.129 – 192.168.40.254 | 192.168.40.255 |
 
 ### 2. Pembuatan Topologi
-- Router (contoh: 2911)
+- Router (contoh: Pt Router)
 - 2 Switch (untuk masing-masing subnet)
 - 4 PC (2 per departemen)
 - Printer (opsional)
